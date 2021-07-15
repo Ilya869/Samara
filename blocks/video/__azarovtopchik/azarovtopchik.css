@@ -1,0 +1,24 @@
+.video__azarovtopchik {
+    width: 650px;
+    position: relative;
+    text-align: center;
+    margin: auto;
+}
+
+@media screen and (max-width: 1380px) {
+    .video__azarovtopchik {
+        width: 500px;
+    }
+}
+ 
+@media screen and (max-width: 1020px) {
+    .video__azarovtopchik {
+       width: 350px;
+    }
+}
+ 
+@media screen and (max-width: 820px) {
+    .video__azarovtopchik {
+       width: 300px;
+    }
+}

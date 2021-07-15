@@ -1,0 +1,11 @@
+@import url(../video/__azarovtopchik/azarovtopchik.css);
+@import url(../video/__block/block.css);
+@import url(../video/__fon/fon.css);
+@import url(../video/__subtitle/subtitle.css);
+@import url(../video/__text/text.css);
+@import url(../video/__rect/rect.css);
+
+.video {
+    position: relative;
+    width: 100%;
+}

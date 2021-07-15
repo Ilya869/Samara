@@ -1,0 +1,35 @@
+.header__title {
+   font-family: 'Angelica';
+   margin: auto;
+   font-size: 120px;
+   line-height: 152px;
+   z-index: 5;
+   width: auto;
+   font-weight: 400;
+   color: #4C473A;
+   text-align: center;
+}
+
+@media screen and (max-width: 1380px) {
+   .header__title {
+       font-size: 110px;
+   }
+}
+
+@media screen and (max-width: 1020px) {
+   .header__title {
+      font-size: 85px;
+   }
+}
+
+@media screen and (max-width: 820px) {
+   .header__title {
+      font-size: 70px;
+   }
+}
+
+@media screen and (max-width: 520px) {
+   .header__title {
+      font-size: 45px;
+   }
+}

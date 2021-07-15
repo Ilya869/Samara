@@ -1,0 +1,9 @@
+@import url(../footer/__block/block.css);
+@import url(../footer/__description/description.css);
+@import url(../footer/__fon/fon.css);
+@import url(../footer/__maps/maps.css);
+
+.footer {
+    position: relative;
+    width: 100%;
+}

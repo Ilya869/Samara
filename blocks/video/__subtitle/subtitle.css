@@ -1,0 +1,22 @@
+.video__subtitle {
+   margin: 0 auto 0;
+   padding-top: 40px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 30px;
+   font-weight: 400;
+   width: 90%;
+   text-align: center;
+   color: #4C473A;
+}
+
+@media screen and (max-width: 1380px) {
+   .video__subtitle {
+       font-size: 24px;
+   }
+}
+
+@media screen and (max-width: 1020px) {
+   .video__subtitle {
+      font-size: 20px;
+   }
+}

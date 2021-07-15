@@ -1,0 +1,8 @@
+.header__up {
+   position: absolute;
+   left: 22%;
+   bottom: 0;
+   margin: auto;
+   width: 60%;
+   z-index: 3;
+}

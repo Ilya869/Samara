@@ -1,0 +1,32 @@
+.header__sky {
+   position: absolute;
+   left: 0;
+   top: 0;
+   width: 100%;
+   height: 1000px;
+   z-index: -1;
+}
+
+@media screen and (max-width: 1380px) {
+   .header__sky {
+      height: 900px;
+   }
+}
+
+@media screen and (max-width: 1020px) {
+   .header__sky {
+      height: 700px;
+   }
+}
+
+@media screen and (max-width: 820px) {
+   .header__sky {
+      height: 600px;
+   }
+}
+
+@media screen and (max-width: 520px) {
+   .header__sky {
+      height: 500px;
+   }
+}

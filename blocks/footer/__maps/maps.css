@@ -1,0 +1,26 @@
+.footer__maps {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 25px;
+   font-weight: 400;
+   line-height: 40px;
+   text-align: right;
+   color: #C09068;
+   text-decoration: none;
+   display: flex;
+   align-items: center;
+   margin-left: 12%;
+}
+
+@media screen and (max-width: 1020px) {
+   .footer__maps {
+       margin-left: 0;
+   }
+}
+
+@media screen and (max-width: 820px) {
+   .footer__maps {
+      padding-bottom: 30px;
+      margin: auto;
+      text-align: center;
+   }
+}
